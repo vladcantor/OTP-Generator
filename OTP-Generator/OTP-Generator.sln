@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTP-Generator", "OTP-Generator.csproj", "{3D3C00B7-1CF0-45FE-9B15-E56946B36D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOTP_GenerationTests", "..\TOTP_GenerationTests\TOTP_GenerationTests.csproj", "{EBA741D1-A266-4E90-979C-183999F6F4CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D3C00B7-1CF0-45FE-9B15-E56946B36D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3C00B7-1CF0-45FE-9B15-E56946B36D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3C00B7-1CF0-45FE-9B15-E56946B36D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3C00B7-1CF0-45FE-9B15-E56946B36D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA741D1-A266-4E90-979C-183999F6F4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA741D1-A266-4E90-979C-183999F6F4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA741D1-A266-4E90-979C-183999F6F4CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA741D1-A266-4E90-979C-183999F6F4CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D1BA9E2-FCBC-4F32-ACC6-120ADB1D7C45}
+	EndGlobalSection
+EndGlobal
